@@ -47,7 +47,3 @@ with open(filename,'w', encoding='utf-8') as fout:
             #print(dic)
         fout.write(dic)
     print(fout)
-
-#fout = open(filename, 'r',encoding='utf-8')
-#file = filename
-os.system(filename)
